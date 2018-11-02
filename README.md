@@ -8,4 +8,4 @@ Note this is just a code sample and is only meant to showcase general functional
 * [Moment](https://momentjs.com/) - library to parse/format dates
 * [TypeScript](https://www.typescriptlang.org/) - language to provide static type-checking w/ interfaces & type annotations
 * [ASP.NET](https://docs.microsoft.com/en-us/aspnet/) - web app framework to build RESTful services
-* [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017) - database server to store/retrieve data
+* [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017) - database server to store/retrieve data 
